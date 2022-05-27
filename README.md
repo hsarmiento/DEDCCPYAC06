@@ -1,2 +1,2 @@
-# DEDCCPYAC06
-Taller de Proyecto de Datos
+# Taller de Proyecto de Datos, Diplomado Python - DEDCCPYAC06
+
